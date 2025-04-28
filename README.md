@@ -1,7 +1,7 @@
 # Steps with a Shield 🛡️
 ## First Place Winner at ITEENS Hackathon 🏆
 
-![First Place Diploma](Untitled.jpg)
+![First Place Diploma](main.jpg)
 
 Awarded **First Place** and a prize of **50,000 tenge** at the ITEENS Hackathon for creating an innovative security solution.
 
